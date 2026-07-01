@@ -22,7 +22,7 @@ A Retrieval-Augmented Generation (RAG) application that answers questions about 
 ```
 baseballjerseyrag/
 └── mlb-jersey-rag/       # Main application code
-    ├── data/             # Jersey documents / knowledge base
+    ├── data/             # Jersey documents/knowledge base
     ├── notebooks/        # Jupyter exploration notebooks
     ├── app.py            # Main RAG application entry point
     └── requirements.txt
