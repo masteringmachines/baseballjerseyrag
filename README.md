@@ -76,6 +76,8 @@ Open any notebook in the `notebooks/` folder to explore the RAG pipeline step by
 "Which teams have had navy blue as a primary color?"
 "Tell me about the history of the Chicago Cubs uniform"
 "What jersey number did Babe Ruth wear?"
+"What jersey did the Baltimore Orioles wear last year?"
+"What color are the Seattle Mariners' new jerseys?"
 ```
 
 ## 🔍 How RAG Works Here
